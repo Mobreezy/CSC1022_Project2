@@ -1,14 +1,11 @@
-/*Mohammed Ali
- * 08/12/19
- * Student Number: 18031009
+/*
  * This Class contains all essential information about a sandwich
  * */
-import java.util.Iterator;
+
 import java.util.Scanner;
 import java.util.Map;
-import java.util.HashMap;
 import java.util.Set;
-import java.io.FileInputStream;
+
 
 public class SandwichMenu {
     public void run() throws Exception {

@@ -1,6 +1,4 @@
-/*Mohammed Ali
- * 08/12/19
- * Student Number: 18031009
+/*
  * This is an interface.
  * */public interface Priceable {
 

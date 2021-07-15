@@ -1,6 +1,4 @@
-/*Mohammed Ali
- * 08/12/19
- * Student Number: 18031009
+/*
  * This class contains all properties for the ingredients of the sandwich
  * */
 

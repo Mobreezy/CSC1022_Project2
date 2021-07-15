@@ -1,9 +1,7 @@
-/*Mohammed Ali
- * 08/12/19
- * Student Number: 18031009
+/*
  * This class contains all the properties for bread,fillings and toppings
  * */
-import java.security.PublicKey;
+
 import java.util.*;
 
 public class SandwichCatalog {

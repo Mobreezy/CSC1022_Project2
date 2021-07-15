@@ -1,6 +1,4 @@
-/*Mohammed Ali
- * 08/12/19
- * Student Number: 18031009
+/*
  * This class builds a sandwich with its ingredients and put it into a receipt
  * */
 public class SandwichTestBuild {
